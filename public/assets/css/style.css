@@ -13,9 +13,31 @@ body {
     background-image: url('../images/Mask_Group_19.png');
 }
 header .social-nav{
-    text-align: right;
+
+}
+header .social-nav .container-fluid{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
 }
 
+header .social-nav .navbar-phone {
+    display: flex;
+    align-items: center;
+    color: var(--main-color);
+    font-weight: bold;
+    border: 1px solid var(--main-color);
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 12px;
+}
+@media(min-width:1200px){
+    header .social-nav .navbar-phone {
+        display: none;
+    }
+}
 header .social-nav img{
     width: 30px;
     margin: 5px;
@@ -25,13 +47,41 @@ header .main-nav .navbar-brand {
     font-weight: bold;
 }
 header .main-nav .navbar-phone {
-    color: var(--main-color);
-    font-weight: bold;
+    display: none;
+}
+@media(min-width:1200px){
+    header .main-nav .navbar-phone {
+        display: flex;
+        align-items: center;
+        color: var(--main-color);
+        font-weight: bold;
+        border: 1px solid var(--main-color);
+        border-radius: 5px;
+        padding: 5px;
+        text-decoration: none;
+        cursor: pointer;
+        font-size: 12px;
+    }
+}
+header .main-nav #navbarSupportedContent{
     border: 1px solid var(--main-color);
     border-radius: 5px;
-    padding: 5px;
-    text-decoration: none;
-    cursor: pointer;
+    margin: 5px;
+    justify-content: space-evenly;
+}
+@media(max-width:1200px){
+    header .main-nav #navbarSupportedContent{
+        text-align: center;
+    }
+    header .main-nav .search{
+        justify-content: center;
+    }
+    header .main-nav .langs .nav-link{
+        justify-content: center;
+    }
+    header .main-nav .sign-in .nav-link{
+        justify-content: center;
+    }
 }
 header .main-nav li{
     list-style: none;
@@ -39,6 +89,36 @@ header .main-nav li{
 header .main-nav li a{
     color: var(--main-color);
     font-weight: bold;
+    font-size: 13px;
+}
+
+header .main-nav .post-ads{
+    background-color: red;
+    border-radius: 5px;
+    margin: 5px;
+}
+header .main-nav .post-ads a{
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 5px 15px;
+}
+header .main-nav .search{
+    background-color: var(--main-color);
+    transform: skewX(-10deg);
+    padding: 3px 15px 3px 0px;
+    border-radius: 5px;
+    margin: 5px;
+}
+header .main-nav .search i{ 
+    color: #fff;
+    padding: 10px;
+}
+
+header .main-nav input{
+    background-color: transparent;
+    padding: 5px;
+    font-size: 13px;
 }
 header .main-nav .langs img{
     width: 30px;
@@ -46,10 +126,15 @@ header .main-nav .langs img{
     border-radius: 50%;
 }
 header .main-nav .langs h3{
-    font-size: 18px;
+    font-size: 13px;
+    font-weight: bold;
+}
+header .main-nav .sign-in img{
+    width: 30px;
 }
 header .main-nav .sign-in h3{
-    font-size: 18px;
+    font-size: 13px;
+    font-weight: bold;
 }
 
 .navbar-toggler-icon {

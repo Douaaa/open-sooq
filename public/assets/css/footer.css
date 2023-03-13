@@ -1,0 +1,70 @@
+
+/*Footer Section*/
+footer{
+    background-color: #9c9c9c;
+    padding: 40px;
+    color: #fff;
+    position: relative;
+}
+footer .logoImg{
+    padding: 40px;
+}
+footer ul{
+    list-style-type: none;
+    padding: 0;
+
+}
+footer ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    transition: all 0.5s ease-out;
+}
+footer ul li a:hover{
+    color: #1e6641;
+
+
+}
+footer .left-border::before{
+    display: block;
+    content: '';
+    height: 170px;
+    top: 17%;
+    width: 1px;
+    color: #ffffff;
+    margin-left: -53px;
+    background-color: #fff;
+    position: absolute;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    footer .left-border::before{
+        display: none;
+    }
+    footer .logoImg{
+        padding: 0px 0px 30px;
+    }
+}
+@media only screen and (max-width: 1075px) {
+    footer .left-border::before{
+        display: none;
+
+    }
+    footer .logoImg{
+        padding: 0px 0px 30px;
+    }
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
+

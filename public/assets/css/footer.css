@@ -36,6 +36,9 @@ footer .left-border::before{
     background-color: #fff;
     position: absolute;
 }
+footer .footer-title{
+    font-size: 17px;
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     footer .left-border::before{
@@ -45,6 +48,7 @@ footer .left-border::before{
         padding: 0px 0px 30px;
     }
 }
+
 @media only screen and (max-width: 1075px) {
     footer .left-border::before{
         display: none;

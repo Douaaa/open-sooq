@@ -13,7 +13,8 @@
                 <div class="row">
                     <div class="col-lg-3 col-sm-6  col-xs-12 ">
                         <div class="column-content">
-                            <h4>About Trend</h4>
+                            <p class="footer-title">About Trend</p>
+
                         </div>
                         <ul class="footer-list">
                             <li> <a href="">About US</a></li>
@@ -27,7 +28,7 @@
                     </div>
                     <div class="col-lg-3 col-sm-6  col-xs-12 left-border">
                         <div class="column-content">
-                            <h4>About Trend</h4>
+                            <p class="footer-title">About Trend</p>
                         </div>
                         <ul class="footer-list">
                             <li> <a href="">About US</a></li>
@@ -41,7 +42,7 @@
                     </div>
                     <div class="col-lg-3 col-sm-6  col-xs-12 left-border">
                         <div class="column-content">
-                            <h4>About Trend</h4>
+                            <p class="footer-title">About Trend</p>
                         </div>
                         <ul class="footer-list">
                             <li> <a href="">About US</a></li>
@@ -55,7 +56,7 @@
                     </div>
                     <div class="col-lg-3 col-sm-6  col-xs-12 left-border">
                         <div class="column-content">
-                            <h4>About Trend</h4>
+                            <p class="footer-title">About Trend</p>
                         </div>
                         <ul class="footer-list">
                             <li> <a href="">About US</a></li>

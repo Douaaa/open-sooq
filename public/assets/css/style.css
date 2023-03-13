@@ -1,0 +1,62 @@
+/*Start variables*/
+:root{
+    --main-color: #2a603d;
+    --secondary-color: #298254;
+    --third-color: #348d53;
+    --fourth-color: #4ba668;
+    --section-background: #F6F6F6;
+}
+/*End variables*/
+
+/* start header */
+body {
+    background-image: url('../images/Mask_Group_19.png');
+}
+header .social-nav{
+    text-align: right;
+}
+
+header .social-nav img{
+    width: 30px;
+    margin: 5px;
+}
+header .main-nav .navbar-brand {
+    color: var(--main-color);
+    font-weight: bold;
+}
+header .main-nav .navbar-phone {
+    color: var(--main-color);
+    font-weight: bold;
+    border: 1px solid var(--main-color);
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+header .main-nav li{
+    list-style: none;
+}
+header .main-nav li a{
+    color: var(--main-color);
+    font-weight: bold;
+}
+header .main-nav .langs img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+header .main-nav .langs h3{
+    font-size: 18px;
+}
+header .main-nav .sign-in h3{
+    font-size: 18px;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(42,96,61,1 )' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+  
+.navbar-toggler {
+    border-color: var(--main-color);
+  } 
+/* start header */

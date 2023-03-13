@@ -76,5 +76,6 @@
 
 
 </footer>
-<script src="{{ asset('assets/js/bootstrap.bundle.min.js')}}"  crossorigin="anonymous"></script>
 <script src="{{ asset('assets/js/jquery.min.js')}}"  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="{{ asset('assets/js/bootstrap.bundle.min.js')}}"  crossorigin="anonymous"></script>

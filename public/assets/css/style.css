@@ -162,20 +162,37 @@ header .main-nav .sign-in h3{
 .status .swiper {
     width: 100%;
     max-width: 1280px;
-    height: 75px;
+   /*  height: 75px; */
     margin-top: 40px;
   }
 .status .swiper-slide {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #eee;
+    flex-direction: column;
+  }
+.status .swiper-slide .image {
+    padding: 6px;
+    border: 1px solid #adb5bd;
+    border-radius: 50%;
+}
+.status .swiper-slide img {
     width: 75px;
     height: 75px;
-  }
-.status .swiper-slide img {
-    width: 100%;
-    height: 100%;
-  }
-  
+    border-radius: 50%;
+    position: relative;
+}
+.status .swiper-slide img::before {
+    content: "";
+    position: absolute;
+}
+.status .swiper-slide img::after {
+    content: "";
+    position: absolute;
+}
+.status .swiper-slide p {
+    font-size: .7rem;
+    margin-top: 1rem;
+}
+
 /* end status */

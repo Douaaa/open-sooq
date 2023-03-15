@@ -1,6 +1,6 @@
 <header>
     <div class="social-nav pt-3">
-            <div class="container-fluid">
+            <div class="container">
                 <div>
                   <img src="{{ asset('assets/images/Rectangle_248@2x.png') }}" alt="instagram">
                   <img src="{{ asset('assets/images/Rectangle_247@2x.png') }}" alt="facebook">
@@ -14,7 +14,7 @@
     </div>
     <div class="main-header">
             <nav class="navbar navbar-expand-xl main-nav">
-                <div class="container-fluid">
+                <div class="container">
                   <a class="navbar-brand" href="#">Logo</a>
                   <a class="navbar-phone" href="tel:0970970975"><i class="fa-solid fa-phone m-1"></i>0970970975</a>
 

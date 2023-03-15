@@ -85,6 +85,14 @@
                             <div class="swiper-slide ">
                                 <div class="card" >
                                     <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
                                     <div class="card-body">
                                         <div class="card-container">
                                             <div class="left-section">
@@ -103,6 +111,14 @@
                             <div class="swiper-slide ">
                                 <div class="card" >
                                     <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
                                     <div class="card-body">
                                         <div class="card-container">
                                             <div class="left-section">
@@ -121,6 +137,14 @@
                             <div class="swiper-slide ">
                                 <div class="card" >
                                     <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
                                     <div class="card-body">
                                         <div class="card-container">
                                             <div class="left-section">

@@ -3,7 +3,7 @@
     <div class="download-bg">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-8">
+                <div class="col-lg-8 col-md-12">
                     <div class="left-section">
                         <div class="download-title">
                             <p>Faster. Easier Free.</p>
@@ -98,7 +98,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 position-relative">
+                <div class="col-lg-4 col-md-12 position-relative">
                     <div class="right-section">
                         <div class="mobile-img">
                             <img src="{{asset('assets/images/mobile.png')}}">

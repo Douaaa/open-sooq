@@ -148,6 +148,14 @@
         margin-top: unset;
 
     }
+    #download .icons-section .qr-section .qr-title {
+        display: none;
+    }
+    #download .icons-section .qr-section img {
+
+        width: 50%;
+
+    }
     #download .right-section .mobile-img {
         display: none;
     }

@@ -8,97 +8,97 @@
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
             <div class="swiper-slide statu">
                 <div class="image">
                     <img src="{{ asset('assets/images/Mask_Group_7_gr.png') }}" alt="">
                 </div>
-                <p>Persom Name</p>
+                <p>person Name</p>
             </div>
     
             </div>

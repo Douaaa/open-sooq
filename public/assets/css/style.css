@@ -81,6 +81,9 @@ header .main-nav #navbarSupportedContent{
         justify-content: center;
     }
 }
+.nav-link:focus, .nav-link:hover{
+    color: var(--fourth-color);
+}
 header .main-nav li{
     list-style: none;
 }

@@ -16,9 +16,7 @@
     <!-- Template Main CSS File -->
     @if(trans('all.dir') != 'rtl')
         <link href="{{ asset('assets/css/style.css')}}" rel="stylesheet">
-
     @else
-
         <link rel="stylesheet" href="{{ asset('css/style-ar.css')}}"/>
     @endif
 </head>
@@ -28,6 +26,5 @@
     @yield('content')
    </section>
    @include('layouts.footer')
-
 </body>
 </html>

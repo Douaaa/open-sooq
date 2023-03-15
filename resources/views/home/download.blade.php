@@ -12,31 +12,34 @@
                         <div class="icons-section">
                             <div class="top-icons">
                                 <div class="row">
-                                    <div class="col-lg-3 col-md-6 col-sm-12">
-                                        <div class="black-box">
-                                            <img src="{{asset('assets/images/googleplay.png')}}" alt="google-play" title="google-play">
-                                            <a href="">
-                                                GET ON  <strong> Google Play</strong>
-                                            </a>
-                                        </div>
+                                    <div class="col-sm-12 col-md-6  col-lg-3 ">
+                                        <img src="{{asset('assets/images/googlePlaybox.png')}}"  class="img-icon" alt="google-play" title="google-play">
+{{--                                        <div class="black-box">--}}
+{{--                                            <img src="{{asset('assets/images/googleplay.png')}}" alt="google-play" title="google-play">--}}
+{{--                                            <a href="">--}}
+{{--                                                GET ON  <strong> Google Play</strong>--}}
+{{--                                            </a>--}}
+{{--                                        </div>--}}
                                     </div>
-                                    <div class="col-lg-3 col-md-6 col-sm-12">
-                                        <div class="black-box">
-                                            <img src="{{asset('assets/images/apple.png')}}" alt="apple" title="apple">
-                                            <a href="">
-                                                DOWNLOAD ON <strong>Apple Store</strong>
-                                            </a>
-                                        </div>
+                                    <div class="col-sm-12 col-md-6 col-lg-3  ">
+                                        <img src="{{asset('assets/images/appStoreBox.png')}}"  class="img-icon" alt="google-play" title="google-play">
+{{--                                        <div class="black-box">--}}
+{{--                                            <img src="{{asset('assets/images/apple.png')}}" alt="apple" title="apple">--}}
+{{--                                            <a href="">--}}
+{{--                                                DOWNLOAD ON <strong>Apple Store</strong>--}}
+{{--                                            </a>--}}
+{{--                                        </div>--}}
                                     </div>
-                                    <div class="col-lg-3 col-md-6 col-sm-12">
-                                        <div class="black-box">
-                                            <img src="{{asset('assets/images/huawei.png')}}" alt="huawei" title="huawei">
-                                            <a href="">
-                                                EXPLORE IT ON <strong>APPGALLARY</strong>
-                                            </a>
-                                        </div>
+                                    <div class="col-sm-12 col-md-6 col-lg-3  ">
+                                        <img src="{{asset('assets/images/appGallery.png')}}" class="img-icon" alt="google-play" title="google-play">
+{{--                                        <div class="black-box">--}}
+{{--                                            <img src="{{asset('assets/images/huawei.png')}}" alt="huawei" title="huawei">--}}
+{{--                                            <a href="">--}}
+{{--                                                EXPLORE IT ON <strong>APPGALLARY</strong>--}}
+{{--                                            </a>--}}
+{{--                                        </div>--}}
                                     </div>
-                                    <div class="col-lg-3 col-md-6 col-sm-12">
+                                    <div class="col-sm-12 col-md-6 col-lg-3  ">
                                         <div class="qr-section">
                                             <div class="qr-title">Scan QR Code</div>
                                             <img src="{{asset('assets/images/qr.png')}}" alt="qr-code" title="qr-code">
@@ -64,7 +67,7 @@
                                             </div>
                                             <div class="d-inline-block">
                                                 <span >Phone</span>
-                                                <a href="tel:+9627725666666" class="d-block">+9627725666666</a>
+                                                <a href="tel:+9627725666666" class="d-block">+9627725666</a>
                                             </div>
                                         </div>
                                     </div>

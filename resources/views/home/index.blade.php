@@ -9,6 +9,7 @@
 
     <section class="container-fluid main-section">
         <div class="row">
+            @include('home.status')
             @include('home.slider')
             @include('home.sections')
             @include('home.video')

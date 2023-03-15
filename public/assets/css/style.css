@@ -15,7 +15,7 @@ body {
 header .social-nav{
 
 }
-header .social-nav .container-fluid{
+header .social-nav .container{
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
@@ -39,7 +39,7 @@ header .social-nav .navbar-phone {
     }
 }
 header .social-nav img{
-    width: 30px;
+    width: 20px;
     margin: 5px;
 }
 header .main-nav .navbar-brand {
@@ -121,8 +121,8 @@ header .main-nav input{
     font-size: 13px;
 }
 header .main-nav .langs img{
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
     border-radius: 50%;
 }
 header .main-nav .langs h3{
@@ -130,7 +130,7 @@ header .main-nav .langs h3{
     font-weight: bold;
 }
 header .main-nav .sign-in img{
-    width: 30px;
+    width: 20px;
 }
 header .main-nav .sign-in h3{
     font-size: 13px;
@@ -144,4 +144,15 @@ header .main-nav .sign-in h3{
 .navbar-toggler {
     border-color: var(--main-color);
   } 
+
+  .navbar-expand-xl .navbar-nav .nav-link {
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+  .navbar-toggler:focus{
+    box-shadow: none;
+  }
+  .navbar-toggler {
+    border-color: transparent;
+}
 /* start header */

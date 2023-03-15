@@ -21,6 +21,9 @@
     clip-path: polygon(0 0, 100% 0, 100% 79%, 75% 100%, 25% 100%, 0 100%);
     height: 331px;
 }
+#platforms .platform-sliders .platform-group{
+    margin-bottom: 30px;
+}
 #platforms .platform-sliders .platform-group .group-title{
     font-size: 1.8rem;
     font-weight: bold;
@@ -40,6 +43,25 @@
     height: 1px;
     color: #000000;
     background-color: #000000;
+}
+
+#platforms .platform-sliders .platform-group .group-slider {
+    position: relative;
+}
+#platforms .platform-sliders .platform-group .group-slider .swiper-wrapper{
+    height: auto!important;
+}
+#platforms .platform-sliders .platform-group .group-slider .swiper-button-prev, .swiper-rtl .swiper-button-next{
+    top: 50%;
+    left: -3%;
+    color: #000;
+
+}
+#platforms .platform-sliders .platform-group .group-slider .swiper-button-next, .swiper-rtl .swiper-button-prev{
+    top: 50%;
+    right: -3%;
+    color: #000;
+
 }
 #platforms .platform-sliders .platform-group .group-slider .card{
     position: relative;

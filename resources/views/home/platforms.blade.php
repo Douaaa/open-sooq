@@ -172,6 +172,642 @@
 
                 </div>
             </div>
+            <div class="platform-group">
+                <div class="group-title">
+                    Social Media
+                    <a href="">More <i class="fas fa-angle-double-right"></i></a>
+                </div>
+                <div class="group-slider">
+                    <!-- Slider main container -->
+                    <div class="swiper theswiper">
+                        <!-- Additional required wrapper -->
+                        <div class="swiper-wrapper">
+                            <!-- Slides -->
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+
+                    </div>
+                    <!-- If we need navigation buttons -->
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+
+                </div>
+            </div>
+            <div class="platform-group">
+                <div class="group-title">
+                    Real Estate
+                    <a href="">More <i class="fas fa-angle-double-right"></i></a>
+                </div>
+                <div class="group-slider">
+                    <!-- Slider main container -->
+                    <div class="swiper theswiper">
+                        <!-- Additional required wrapper -->
+                        <div class="swiper-wrapper">
+                            <!-- Slides -->
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+
+                    </div>
+                    <!-- If we need navigation buttons -->
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+
+                </div>
+            </div>
+            <div class="platform-group">
+                <div class="group-title">
+                    Cars
+                    <a href="">More <i class="fas fa-angle-double-right"></i></a>
+                </div>
+                <div class="group-slider">
+                    <!-- Slider main container -->
+                    <div class="swiper theswiper">
+                        <!-- Additional required wrapper -->
+                        <div class="swiper-wrapper">
+                            <!-- Slides -->
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+
+                    </div>
+                    <!-- If we need navigation buttons -->
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+
+                </div>
+            </div>
+            <div class="platform-group">
+                <div class="group-title">
+                    Delivery
+                    <a href="">More <i class="fas fa-angle-double-right"></i></a>
+                </div>
+                <div class="group-slider">
+                    <!-- Slider main container -->
+                    <div class="swiper theswiper">
+                        <!-- Additional required wrapper -->
+                        <div class="swiper-wrapper">
+                            <!-- Slides -->
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+
+                    </div>
+                    <!-- If we need navigation buttons -->
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+
+                </div>
+            </div>
+            <div class="platform-group">
+                <div class="group-title">
+                    Phone
+                    <a href="">More <i class="fas fa-angle-double-right"></i></a>
+                </div>
+                <div class="group-slider">
+                    <!-- Slider main container -->
+                    <div class="swiper theswiper">
+                        <!-- Additional required wrapper -->
+                        <div class="swiper-wrapper">
+                            <!-- Slides -->
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide ">
+                                <div class="card" >
+                                    <img class="card-img-top" src="{{asset('assets/images/platform.png')}}" alt="Card image cap">
+                                    <div class="rating">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        <img src="{{asset('assets/images/star.png')}}">
+                                        4.9
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="card-container">
+                                            <div class="left-section">
+                                                <h5 class="card-title">Tarolasix Plotakov</h5>
+                                                <p class="card-text">Tarolasix Plotakov floraz topiias
+                                                    hulu konztrak laity read more...</p>
+                                            </div>
+                                            <div class="right-section">
+                                                <h6>50.24$</h6>
+                                                <a href="" class="btn btn-primary ">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+
+                    </div>
+                    <!-- If we need navigation buttons -->
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+
+                </div>
+            </div>
+
         </div>
 
     </div>

@@ -312,16 +312,16 @@ bottom: -7px;
     display: flex;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
-.sections .section-first .section{
+.sections .section.first{
     background-color: #1c6742;
 }
-.sections .section-second .section{
+.sections .section.second{
     background-color: #1b8053;
 }
-.sections .section-third .section{
+.sections .section.third{
     background-color: #2e9f67;
 }
-.sections .section-fourth .section{
+.sections .section.fourth{
     background-color: #69b084;
 }
 .sections .section .image{

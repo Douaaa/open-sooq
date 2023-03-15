@@ -149,4 +149,10 @@ header .main-nav .sign-in h3{
     padding-right: 5px;
     padding-left: 5px;
   }
+  .navbar-toggler:focus{
+    box-shadow: none;
+  }
+  .navbar-toggler {
+    border-color: transparent;
+}
 /* start header */

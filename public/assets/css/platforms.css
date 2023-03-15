@@ -1,0 +1,124 @@
+#platforms {
+    position: relative;
+    margin-bottom: 200px;
+}
+#platforms .section-title{
+    text-transform: uppercase;
+    color: #1c262b;
+    font-weight: bold;
+    font-size: 3.5rem;
+    text-align: center;
+}
+#platforms .platform-item{
+    padding: 10%;
+}
+#platforms .platform-item .card{
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 10px 12%;
+    font-weight: bold;
+    border-radius: 15px;
+    clip-path: polygon(0 0, 100% 0, 100% 79%, 75% 100%, 25% 100%, 0 100%);
+    height: 331px;
+}
+#platforms .platform-sliders .platform-group .group-title{
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+#platforms .platform-sliders .platform-group .group-title a{
+    font-size: 1.3rem;
+    float: right;
+    font-weight: initial;
+    color: #000000;
+    text-decoration: none;
+}
+#platforms .platform-sliders .platform-group .group-title::after{
+    display: block;
+    content: '';
+    margin: 10px 0;
+    width: 100%;
+    height: 1px;
+    color: #000000;
+    background-color: #000000;
+}
+#platforms .platform-sliders .platform-group .group-slider .card{
+    position: relative;
+}
+#platforms .platform-sliders .platform-group .group-slider .card .rating{
+    position: absolute;
+    background-color: #41c17f;
+    color: #ffffff;
+    top: 10px;
+    padding: 5px;
+    font-size: 12px;
+    border-top-right-radius: 15px;
+}
+#platforms .platform-sliders .platform-group .group-slider .card .rating img{
+    width: 10px;
+}
+#platforms .platform-sliders .platform-group .group-slider .card-img-top{
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+}
+#platforms .platform-sliders .platform-group .group-slider .card .card-body{
+    padding: 20px 15px;
+    /*max-height: 100px;*/
+    border: 1px solid #3db678;
+    border-radius: 5px;
+}
+#platforms .platform-sliders .platform-group .group-slider .card .card-body .card-title{
+    color:#41c17f ;
+}
+#platforms .platform-sliders .platform-group .group-slider .card .card-body .card-container .left-section{
+    width: 50%;
+    float: left;
+    font-size: 1rem;
+}
+#platforms .platform-sliders .platform-group .group-slider .card .card-body .card-container .left-section .card-title{
+
+    font-size: 1rem!important;
+}
+#platforms .platform-sliders .platform-group .group-slider .card .card-body .card-container .left-section .card-text{
+
+    font-size: 0.6rem!important;
+    font-weight: bold;
+}
+#platforms .platform-sliders .platform-group .group-slider .card .card-body .card-container .right-section{
+    width: 50%;
+    float: right;
+    text-align: right;
+}
+#platforms .platform-sliders .platform-group .group-slider .card .card-body .card-container .right-section a{
+    color:#ffffff ;
+    background-color: #41c17f;
+    border-color:#41c17f ;
+    transition: all 0.5s ease-out;
+}
+#platforms .platform-sliders .platform-group .group-slider .card .card-body .card-container .right-section a:hover{
+    color:#ffffff ;
+    background-color: #9c9c9c;
+    border-color:#9c9c9c ;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+}
+
+@media only screen and (max-width: 1075px) {
+
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
+

@@ -123,6 +123,14 @@
 }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+    #platforms .platform-sliders .platform-group .group-title {
+        font-size: 1rem;
+
+    }
+    #platforms .platform-sliders .platform-group .group-title a {
+        font-size: 1rem;
+
+    }
     #platforms .platform-sliders .platform-group .group-slider .swiper-button-prev, .swiper-rtl .swiper-button-next{
         display: none;
 

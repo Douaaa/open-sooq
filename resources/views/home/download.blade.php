@@ -1,7 +1,7 @@
 <link href="{{ asset('assets/css/download.css')}}" rel="stylesheet"  crossorigin="anonymous">
 <section id="download">
     <div class="download-bg">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-md-12">
                     <div class="left-section">

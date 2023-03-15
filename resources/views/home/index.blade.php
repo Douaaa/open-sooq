@@ -12,6 +12,7 @@
             @include('home.status')
             @include('home.slider')
             @include('home.sections')
+            @include('home.invite')
             @include('home.video')
             @include('home.platforms')
             @include('home.download')
